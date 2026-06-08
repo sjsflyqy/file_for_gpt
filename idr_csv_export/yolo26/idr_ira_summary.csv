@@ -1,0 +1,2 @@
+﻿method,images,gt_boxes,correct_boxes,iou_threshold,IDR,IRA,epoch,precision,recall,mAP50,mAP50-95
+yolo26l_500,253,2360,2157,0.5,91.39830508474577,41.50197628458498,224.0,0.9033,0.88681,0.90392,0.71489

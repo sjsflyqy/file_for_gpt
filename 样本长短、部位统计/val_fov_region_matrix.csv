@@ -1,0 +1,5 @@
+﻿fov_length_group,Thoracic,Lumbar-sacral,Thoracolumbar,Total
+Short (<=6),0,50,0,50
+Medium (7-10),9,0,111,120
+Long (>10),14,0,69,83
+Total,23,50,180,253

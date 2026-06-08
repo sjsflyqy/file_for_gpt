@@ -1,0 +1,13 @@
+﻿fov_length_group,region_group,num_images,percent_within_fov
+Short (<=6),Thoracic,0,0.0
+Short (<=6),Lumbar-sacral,50,100.0
+Short (<=6),Thoracolumbar,0,0.0
+Short (<=6),Other,0,0.0
+Medium (7-10),Thoracic,9,7.5
+Medium (7-10),Lumbar-sacral,0,0.0
+Medium (7-10),Thoracolumbar,111,92.5
+Medium (7-10),Other,0,0.0
+Long (>10),Thoracic,14,16.87
+Long (>10),Lumbar-sacral,0,0.0
+Long (>10),Thoracolumbar,69,83.13
+Long (>10),Other,0,0.0

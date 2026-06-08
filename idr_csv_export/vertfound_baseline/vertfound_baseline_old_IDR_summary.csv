@@ -1,0 +1,3 @@
+﻿stage,method,images_with_predictions,gt_vertebrae,old_IDR_correct,old_IDR_percent,old_IDR_false_accepts,IDR2_correct,IDR2_percent,IRA_exact_images,IRA_percent
+original,VertFound baseline,253,2360,1498,63.4746,501,,,,
+post,VertFound baseline,253,2360,1944,82.3729,443,1501,63.6017,168,66.4032
